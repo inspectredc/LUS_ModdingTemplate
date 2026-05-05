@@ -10,8 +10,9 @@ set(INCLUDE_DIRS
     ${LOCAL_INCLUDE_DIRS}
     ${CMAKE_CURRENT_SOURCE_DIR}/src
     ${PARENT_DIR}
-    ${PARENT_DIR}/include
-    ${PARENT_DIR}/src
+    ${PARENT_DIR}/soh/include
+    ${PARENT_DIR}/soh/src
+    ${PARENT_DIR}/soh
     ${PARENT_DIR}/libultraship/src
     ${PARENT_DIR}/libultraship/include
     ${PARENT_DIR}/libultraship/include/libultraship

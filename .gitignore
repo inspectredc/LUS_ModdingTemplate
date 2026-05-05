@@ -1,3 +1,5 @@
 build/
 output/*
 .DS_Store
+*.o2r
+*.zip
